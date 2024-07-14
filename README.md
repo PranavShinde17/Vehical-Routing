@@ -1,0 +1,3 @@
+The Vehicle Routing Problem (VRP) is a classic optimization problem that involves determining the most efficient way to route a fleet of vehicles to deliver goods to a set of customers. Hill climbing is a local search algorithm that starts with an arbitrary solution to a problem and iteratively makes small improvements to it.
+
+Implement the hill climbing algorithm, which iteratively explores the neighborhood of the current solution and moves to the neighboring solution with the best improvement in the objective function. The algorithm terminates when no better neighboring solution can be found or after a certain number of iterations.
